@@ -1,0 +1,19 @@
+.Profit{
+  color: darkgreen;
+  margin-right: 20%;
+  /*flex: 20%;*/
+
+}
+
+.Loss{
+  color: #da190b;
+  margin-right: 20%;
+  /*flex: 20%;*/
+}
+
+.Summary{
+  display: flex;
+  font-weight: bold;
+  font-size: 200%;
+  margin: auto;
+}
